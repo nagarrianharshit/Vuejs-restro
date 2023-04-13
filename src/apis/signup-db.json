@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "harshit jain",
+      "email": "harshitjain@gmail.com",
+      "password": "abc@1324",
+      "id": 1
+    },
+    {
+      "name": "dasde",
+      "email": "affcc",
+      "password": "fsdfr",
+      "id": 2
+    },
+    {
+      "name": "hello",
+      "email": "howae",
+      "password": "sadfrsdsne",
+      "id": 3
+    },
+    {
+      "name": "himanshu",
+      "email": "chandan@dasjd.com",
+      "password": "jakdineqr",
+      "id": 4
+    },
+    {
+      "name": "vaibhav",
+      "email": "vaibhav@gmailcmo",
+      "password": "hafraefeij",
+      "id": 5
+    }
+  ],
+  "restaurants" : [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "Branch": "Gurgaon sector 14",
+      "contact": 214
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "Branch": "Noida sector 14",
+      "contact": 213
+    }
+  ]
+}
